@@ -31,3 +31,13 @@ Determinar si existe una relación significativa entre la proximidad al litoral 
 - 
 
 ## 📂 Estructura del proyecto
+
+-
+
+## 📌 Nota
+
+Este análisis es exploratorio y se basa en datos disponibles públicamente. No representa una valoración oficial de mercado.
+
+## 🧑‍💻 Autor
+
+[Albert Bañeres] - [https://www.linkedin.com/in/albert-ba%C3%B1eres-873a28137/]
